@@ -1,4 +1,4 @@
-# C# Cloud Azure Day 4 - TerraForm
+# C# Cloud Azure Day 3 - TerraForm
 
 ## Learning Objectives
 
