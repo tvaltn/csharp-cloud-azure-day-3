@@ -1,0 +1,8 @@
+/.idea/
+/.terraform/
+/.terraform.lock.hcl
+/azure-tf-server
+/azure-tf-server.pub
+/main.tfplan
+/terraform.tfstate
+/terraform.tfstate.backup
